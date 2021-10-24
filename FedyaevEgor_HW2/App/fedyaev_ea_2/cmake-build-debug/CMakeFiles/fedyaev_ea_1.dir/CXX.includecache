@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Helper/point.h
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.h
+fstream
+-
+cmath
+-
+../../Random/random.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.h
+../number.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.h
+fstream
+-
+cmath
+-
+../../Random/random.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.h
+../number.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.h
+fstream
+-
+cmath
+-
+../../Random/random.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.h
+../../Helper/point.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Helper/point.h
+../number.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.cpp
+number.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h
+Fraction/fraction.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.h
+Complex/complex.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.h
+Polar/polar.h
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.h
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h
+fstream
+-
+cmath
+-
+
+/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.h
+stdlib.h
+-
+

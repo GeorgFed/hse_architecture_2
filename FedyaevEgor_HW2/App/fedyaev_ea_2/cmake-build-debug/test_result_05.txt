@@ -1,0 +1,21 @@
+Container contains 20 elements.
+0: It is Complex: d = 20, i = 12. Real = 23.3238
+1: It is Complex: d = 11, i = 20. Real = 22.8254
+2: It is Complex: d = 16, i = 14. Real = 21.2603
+3: It is Complex: d = 6, i = 20. Real = 20.8806
+4: It is Complex: d = 4, i = 18. Real = 18.4391
+5: It is Fraction: numenator = 17, denominator = 1. Real = 17
+6: It is Complex: d = 5, i = 12. Real = 13
+7: It is Complex: d = 8, i = 7. Real = 10.6301
+8: It is Complex: d = 9, i = 2. Real = 9.21954
+9: It is Complex: d = 7, i = 1. Real = 7.07107
+10: It is Fraction: numenator = 20, denominator = 6. Real = 3
+11: It is Fraction: numenator = 17, denominator = 7. Real = 2
+12: It is Fraction: numenator = 18, denominator = 9. Real = 2
+13: It is Fraction: numenator = 14, denominator = 8. Real = 1
+14: It is Fraction: numenator = 15, denominator = 9. Real = 1
+15: It is Fraction: numenator = 18, denominator = 18. Real = 1
+16: It is Fraction: numenator = 17, denominator = 14. Real = 1
+17: It is Fraction: numenator = 14, denominator = 12. Real = 1
+18: It is Fraction: numenator = 5, denominator = 6. Real = 0
+19: It is Fraction: numenator = 13, denominator = 16. Real = 0
