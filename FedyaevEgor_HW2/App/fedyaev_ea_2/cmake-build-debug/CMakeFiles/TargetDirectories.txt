@@ -1,3 +1,3 @@
-/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/fedyaev_ea_1.dir
+/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles/fedyaev_ea_1.dir
