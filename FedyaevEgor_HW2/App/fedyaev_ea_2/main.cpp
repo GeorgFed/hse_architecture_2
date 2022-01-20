@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 
     // Вторая часть задания
     ofstream ofst2(argv[4]);
-    c->SortDescending();
+        c->SortAscending();
     c->Out(&ofst2);
 
     c->Clear();

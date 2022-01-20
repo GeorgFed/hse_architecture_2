@@ -51,20 +51,19 @@ void Container::Out(ofstream *ofst) {
 }
 
 //------------------------------------------------------------------------------
-// Сортировка прямого выбора по убыванию
-void Container::SortDescending() {
-    int i, j, max_idx;
-
-    // Двигаем границу неотсортированного массива
-    for (i = 0; i < len-1; i++)
-    {
-        // Находим минимальное значение
-        max_idx = i;
-        for (j = i+1; j < len; j++)
-            if (cont[j]->ToReal() > cont[max_idx]->ToReal())
-                max_idx = j;
-
-        // Меняем найденный элемент с первым элементом
-        std::swap(cont[max_idx], cont[i]);
+// Сортировка Шелла по возрастанию
+void Container::SortAscending() {
+    // Переставляем элементы в интервалах размером n / 2, n / 4 ...
+    for (int interval = len / 2; interval > 0; interval /= 2) {
+        for (int i = interval; i < len; i += 1) {
+            Number* temp = cont[i];
+            int j;
+            // Сдвигаем отсортированные элементы
+            for (j = i; j >= interval && cont[j - interval]->ToReal() > temp->ToReal(); j -= interval) {
+                cont[j] = cont[j - interval];
+            }
+            // Ставим элемент на корректную позицию
+            cont[j] = temp;
+        }
     }
 }

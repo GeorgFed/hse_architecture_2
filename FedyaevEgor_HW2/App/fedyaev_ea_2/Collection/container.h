@@ -32,7 +32,7 @@ public:
     void Out(ofstream *ofst);
 
     // StraightSelection сортировка по убыванию  в контейнере
-    void SortDescending();
+    void SortAscending();
 
 private:
     enum {max_len = 10000}; // максимальная длина
