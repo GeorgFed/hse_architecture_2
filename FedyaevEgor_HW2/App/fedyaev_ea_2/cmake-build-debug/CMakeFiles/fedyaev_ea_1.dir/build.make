@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2
+CMAKE_SOURCE_DIR = "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug
+CMAKE_BINARY_DIR = "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/fedyaev_ea_1.dir/depend.make
@@ -68,94 +68,94 @@ include CMakeFiles/fedyaev_ea_1.dir/flags.make
 
 CMakeFiles/fedyaev_ea_1.dir/main.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/main.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/main.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/main.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/main.cpp > CMakeFiles/fedyaev_ea_1.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/main.cpp" > CMakeFiles/fedyaev_ea_1.dir/main.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/main.cpp -o CMakeFiles/fedyaev_ea_1.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/main.cpp" -o CMakeFiles/fedyaev_ea_1.dir/main.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o: ../Number/Fraction/fraction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Fraction/fraction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Fraction/fraction.cpp > CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.cpp" > CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Fraction/fraction.cpp -o CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Number/Fraction/fraction.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o: ../Number/Complex/complex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Complex/complex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Complex/complex.cpp > CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.cpp" > CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Complex/complex.cpp -o CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Number/Complex/complex.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o: ../Number/Polar/polar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Polar/polar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Polar/polar.cpp > CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.cpp" > CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Polar/polar.cpp -o CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Number/Polar/polar.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o: ../Collection/container.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Collection/container.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Collection/container.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Collection/container.cpp > CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Collection/container.cpp" > CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Collection/container.cpp -o CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Collection/container.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Collection/container.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o: ../Random/random.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Random/random.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Random/random.cpp > CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.cpp" > CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Random/random.cpp -o CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.s
 
 CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o: CMakeFiles/fedyaev_ea_1.dir/flags.make
 CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o: ../Number/number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o -c /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o -c "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.cpp"
 
 CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/number.cpp > CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.cpp" > CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.i
 
 CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/number.cpp -o CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.cpp" -o CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.s
 
 # Object files for target fedyaev_ea_1
 fedyaev_ea_1_OBJECTS = \
@@ -179,7 +179,7 @@ fedyaev_ea_1: CMakeFiles/fedyaev_ea_1.dir/Random/random.cpp.o
 fedyaev_ea_1: CMakeFiles/fedyaev_ea_1.dir/Number/number.cpp.o
 fedyaev_ea_1: CMakeFiles/fedyaev_ea_1.dir/build.make
 fedyaev_ea_1: CMakeFiles/fedyaev_ea_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable fedyaev_ea_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable fedyaev_ea_1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/fedyaev_ea_1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -191,6 +191,6 @@ CMakeFiles/fedyaev_ea_1.dir/clean:
 .PHONY : CMakeFiles/fedyaev_ea_1.dir/clean
 
 CMakeFiles/fedyaev_ea_1.dir/depend:
-	cd /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2 /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2 /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/CMakeFiles/fedyaev_ea_1.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1" "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1" "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug" "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug" "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/fedyaev_ea_1.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/fedyaev_ea_1.dir/depend
 
