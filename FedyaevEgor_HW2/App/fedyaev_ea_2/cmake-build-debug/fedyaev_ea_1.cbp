@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"/>
+				<Option working_dir="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"/>
+				<Option working_dir="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"/>
+				<Option working_dir="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="fedyaev_ea_1">
-				<Option output="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/fedyaev_ea_1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"/>
+				<Option output="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/fedyaev_ea_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 fedyaev_ea_1"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 fedyaev_ea_1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="fedyaev_ea_1/fast">
-				<Option output="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/fedyaev_ea_1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug"/>
+				<Option output="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/fedyaev_ea_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,56 +73,56 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 fedyaev_ea_1/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Downloads/acs-main\ c++/ФедяевЕгор\ -\ ДЗ1/App/fedyaev_ea_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 fedyaev_ea_1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Collection/container.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Collection/container.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Collection/container.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Collection/container.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Helper/point.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Helper/point.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Complex/complex.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Complex/complex.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Complex/complex.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Fraction/fraction.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Fraction/fraction.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Fraction/fraction.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Polar/polar.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/Polar/polar.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/Polar/polar.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/number.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Number/number.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Number/number.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Random/random.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/Random/random.h">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/Random/random.h">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/main.cpp">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/main.cpp">
 			<Option target="fedyaev_ea_1"/>
 		</Unit>
-		<Unit filename="/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/CMakeLists.txt">
+		<Unit filename="/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

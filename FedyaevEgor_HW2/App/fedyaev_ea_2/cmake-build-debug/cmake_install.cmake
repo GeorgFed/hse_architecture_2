@@ -1,4 +1,4 @@
-# Install script for directory: /Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1
+# Install script for directory: /Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/georgefed/Downloads/acs-main c++/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/georgefed/Desktop/Education/ACS/ACS-HW2/ACS2/FedyaevEgor_HW2/App/fedyaev_ea_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
