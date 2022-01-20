@@ -29,5 +29,5 @@ void Fraction::Out(ofstream *ofst) {
 
 // Вычисление дейтсвительного числа.
 double Fraction::ToReal() {
-    return (double)(numerator / denominator);
+    return (double)(numerator) / (double)(denominator);
 }

@@ -1,101 +1,101 @@
 Container contains 100 elements.
-0: It is Complex: d = 19, i = 19. Real = 26.8701
-1: It is Complex: d = 20, i = 16. Real = 25.6125
-2: It is Complex: d = 14, i = 20. Real = 24.4131
-3: It is Complex: d = 16, i = 17. Real = 23.3452
-4: It is Complex: d = 12, i = 20. Real = 23.3238
-5: It is Complex: d = 13, i = 19. Real = 23.0217
-6: It is Complex: d = 10, i = 20. Real = 22.3607
-7: It is Complex: d = 14, i = 17. Real = 22.0227
-8: It is Complex: d = 7, i = 20. Real = 21.1896
-9: It is Complex: d = 18, i = 11. Real = 21.095
-10: It is Complex: d = 10, i = 18. Real = 20.5913
-11: It is Complex: d = 10, i = 18. Real = 20.5913
-12: It is Complex: d = 18, i = 9. Real = 20.1246
-13: It is Fraction: numenator = 20, denominator = 1. Real = 20
-14: It is Complex: d = 19, i = 1. Real = 19.0263
-15: It is Fraction: numenator = 19, denominator = 1. Real = 19
-16: It is Complex: d = 18, i = 5. Real = 18.6815
-17: It is Complex: d = 4, i = 18. Real = 18.4391
-18: It is Complex: d = 3, i = 18. Real = 18.2483
-19: It is Complex: d = 10, i = 15. Real = 18.0278
-20: It is Complex: d = 8, i = 16. Real = 17.8885
-21: It is Complex: d = 9, i = 15. Real = 17.4929
-22: It is Complex: d = 7, i = 16. Real = 17.4642
-23: It is Complex: d = 16, i = 7. Real = 17.4642
-24: It is Complex: d = 16, i = 6. Real = 17.088
-25: It is Complex: d = 12, i = 12. Real = 16.9706
-26: It is Complex: d = 9, i = 14. Real = 16.6433
-27: It is Fraction: numenator = 16, denominator = 1. Real = 16
-28: It is Complex: d = 7, i = 14. Real = 15.6525
-29: It is Complex: d = 14, i = 6. Real = 15.2315
-30: It is Complex: d = 4, i = 14. Real = 14.5602
-31: It is Complex: d = 2, i = 14. Real = 14.1421
-32: It is Complex: d = 14, i = 2. Real = 14.1421
-33: It is Complex: d = 4, i = 13. Real = 13.6015
-34: It is Complex: d = 10, i = 9. Real = 13.4536
-35: It is Complex: d = 7, i = 11. Real = 13.0384
-36: It is Complex: d = 11, i = 7. Real = 13.0384
-37: It is Complex: d = 1, i = 13. Real = 13.0384
-38: It is Complex: d = 11, i = 6. Real = 12.53
-39: It is Complex: d = 11, i = 5. Real = 12.083
-40: It is Complex: d = 1, i = 12. Real = 12.0416
-41: It is Complex: d = 9, i = 7. Real = 11.4018
-42: It is Complex: d = 8, i = 8. Real = 11.3137
-43: It is Complex: d = 4, i = 10. Real = 10.7703
-44: It is Complex: d = 10, i = 3. Real = 10.4403
-45: It is Complex: d = 5, i = 9. Real = 10.2956
-46: It is Fraction: numenator = 20, denominator = 2. Real = 10
-47: It is Fraction: numenator = 20, denominator = 2. Real = 10
-48: It is Fraction: numenator = 20, denominator = 2. Real = 10
-49: It is Complex: d = 9, i = 3. Real = 9.48683
-50: It is Complex: d = 9, i = 1. Real = 9.05539
-51: It is Fraction: numenator = 18, denominator = 2. Real = 9
-52: It is Complex: d = 4, i = 8. Real = 8.94427
-53: It is Complex: d = 8, i = 2. Real = 8.24621
-54: It is Complex: d = 7, i = 4. Real = 8.06226
-55: It is Complex: d = 2, i = 7. Real = 7.28011
-56: It is Fraction: numenator = 19, denominator = 3. Real = 6
-57: It is Complex: d = 4, i = 4. Real = 5.65685
-58: It is Fraction: numenator = 10, denominator = 2. Real = 5
-59: It is Fraction: numenator = 10, denominator = 2. Real = 5
-60: It is Fraction: numenator = 11, denominator = 2. Real = 5
-61: It is Fraction: numenator = 17, denominator = 3. Real = 5
-62: It is Complex: d = 2, i = 4. Real = 4.47214
-63: It is Complex: d = 1, i = 4. Real = 4.12311
-64: It is Fraction: numenator = 13, denominator = 3. Real = 4
-65: It is Complex: d = 2, i = 3. Real = 3.60555
-66: It is Complex: d = 3, i = 1. Real = 3.16228
-67: It is Fraction: numenator = 10, denominator = 3. Real = 3
-68: It is Fraction: numenator = 15, denominator = 5. Real = 3
-69: It is Fraction: numenator = 2, denominator = 1. Real = 2
-70: It is Fraction: numenator = 12, denominator = 5. Real = 2
-71: It is Fraction: numenator = 14, denominator = 6. Real = 2
-72: It is Fraction: numenator = 19, denominator = 7. Real = 2
-73: It is Fraction: numenator = 11, denominator = 4. Real = 2
-74: It is Fraction: numenator = 19, denominator = 11. Real = 1
-75: It is Fraction: numenator = 9, denominator = 9. Real = 1
-76: It is Fraction: numenator = 13, denominator = 10. Real = 1
-77: It is Fraction: numenator = 8, denominator = 6. Real = 1
-78: It is Fraction: numenator = 8, denominator = 6. Real = 1
-79: It is Fraction: numenator = 19, denominator = 17. Real = 1
-80: It is Fraction: numenator = 20, denominator = 12. Real = 1
-81: It is Fraction: numenator = 11, denominator = 13. Real = 0
-82: It is Fraction: numenator = 10, denominator = 12. Real = 0
-83: It is Fraction: numenator = 9, denominator = 10. Real = 0
-84: It is Fraction: numenator = 9, denominator = 10. Real = 0
-85: It is Fraction: numenator = 2, denominator = 13. Real = 0
-86: It is Fraction: numenator = 1, denominator = 4. Real = 0
-87: It is Fraction: numenator = 12, denominator = 16. Real = 0
-88: It is Fraction: numenator = 8, denominator = 9. Real = 0
-89: It is Fraction: numenator = 13, denominator = 19. Real = 0
-90: It is Fraction: numenator = 15, denominator = 17. Real = 0
-91: It is Fraction: numenator = 6, denominator = 13. Real = 0
-92: It is Fraction: numenator = 1, denominator = 9. Real = 0
-93: It is Fraction: numenator = 3, denominator = 13. Real = 0
-94: It is Fraction: numenator = 2, denominator = 5. Real = 0
-95: It is Fraction: numenator = 1, denominator = 16. Real = 0
-96: It is Fraction: numenator = 5, denominator = 8. Real = 0
-97: It is Fraction: numenator = 8, denominator = 14. Real = 0
-98: It is Fraction: numenator = 17, denominator = 18. Real = 0
-99: It is Fraction: numenator = 7, denominator = 17. Real = 0
+0: It is Fraction: numenator = 1, denominator = 15. Real = 0.0666667
+1: It is Fraction: numenator = 2, denominator = 20. Real = 0.1
+2: It is Fraction: numenator = 1, denominator = 8. Real = 0.125
+3: It is Fraction: numenator = 1, denominator = 8. Real = 0.125
+4: It is Fraction: numenator = 3, denominator = 15. Real = 0.2
+5: It is Fraction: numenator = 3, denominator = 13. Real = 0.230769
+6: It is Fraction: numenator = 1, denominator = 4. Real = 0.25
+7: It is Fraction: numenator = 5, denominator = 19. Real = 0.263158
+8: It is Fraction: numenator = 3, denominator = 10. Real = 0.3
+9: It is Fraction: numenator = 6, denominator = 17. Real = 0.352941
+10: It is Fraction: numenator = 4, denominator = 10. Real = 0.4
+11: It is Fraction: numenator = 8, denominator = 18. Real = 0.444444
+12: It is Fraction: numenator = 9, denominator = 19. Real = 0.473684
+13: It is Fraction: numenator = 1, denominator = 2. Real = 0.5
+14: It is Fraction: numenator = 15, denominator = 20. Real = 0.75
+15: It is Fraction: numenator = 11, denominator = 13. Real = 0.846154
+16: It is Fraction: numenator = 11, denominator = 12. Real = 0.916667
+17: It is Fraction: numenator = 18, denominator = 18. Real = 1
+18: It is Fraction: numenator = 20, denominator = 19. Real = 1.05263
+19: It is Fraction: numenator = 8, denominator = 6. Real = 1.33333
+20: It is Fraction: numenator = 8, denominator = 6. Real = 1.33333
+21: It is Fraction: numenator = 10, denominator = 7. Real = 1.42857
+22: It is Fraction: numenator = 13, denominator = 9. Real = 1.44444
+23: It is Fraction: numenator = 20, denominator = 11. Real = 1.81818
+24: It is Fraction: numenator = 13, denominator = 7. Real = 1.85714
+25: It is Fraction: numenator = 10, denominator = 5. Real = 2
+26: It is Fraction: numenator = 19, denominator = 9. Real = 2.11111
+27: It is Fraction: numenator = 16, denominator = 7. Real = 2.28571
+28: It is Fraction: numenator = 18, denominator = 5. Real = 3.6
+29: It is Fraction: numenator = 17, denominator = 4. Real = 4.25
+30: It is Fraction: numenator = 13, denominator = 3. Real = 4.33333
+31: It is Polar: angle (radians) = 4, point = (1, 6). Real: 6.08276
+32: It is Polar: angle (radians) = 17, point = (6, 2). Real: 6.32456
+33: It is Fraction: numenator = 15, denominator = 2. Real = 7.5
+34: It is Complex: d = 3, i = 7. Real = 7.61577
+35: It is Complex: d = 5, i = 7. Real = 8.60233
+36: It is Complex: d = 6, i = 7. Real = 9.21954
+37: It is Polar: angle (radians) = 15, point = (7, 6). Real: 9.21954
+38: It is Complex: d = 9, i = 3. Real = 9.48683
+39: It is Complex: d = 4, i = 9. Real = 9.84886
+40: It is Complex: d = 6, i = 8. Real = 10
+41: It is Polar: angle (radians) = 5, point = (9, 5). Real: 10.2956
+42: It is Complex: d = 7, i = 8. Real = 10.6301
+43: It is Complex: d = 10, i = 5. Real = 11.1803
+44: It is Complex: d = 7, i = 9. Real = 11.4018
+45: It is Complex: d = 11, i = 4. Real = 11.7047
+46: It is Polar: angle (radians) = 16, point = (4, 11). Real: 11.7047
+47: It is Polar: angle (radians) = 6, point = (4, 12). Real: 12.6491
+48: It is Complex: d = 9, i = 9. Real = 12.7279
+49: It is Polar: angle (radians) = 8, point = (10, 8). Real: 12.8062
+50: It is Complex: d = 8, i = 11. Real = 13.6015
+51: It is Polar: angle (radians) = 20, point = (7, 12). Real: 13.8924
+52: It is Polar: angle (radians) = 20, point = (14, 1). Real: 14.0357
+53: It is Polar: angle (radians) = 17, point = (13, 6). Real: 14.3178
+54: It is Polar: angle (radians) = 6, point = (10, 11). Real: 14.8661
+55: It is Polar: angle (radians) = 8, point = (10, 11). Real: 14.8661
+56: It is Polar: angle (radians) = 2, point = (14, 6). Real: 15.2315
+57: It is Polar: angle (radians) = 15, point = (6, 14). Real: 15.2315
+58: It is Complex: d = 15, i = 4. Real = 15.5242
+59: It is Complex: d = 12, i = 10. Real = 15.6205
+60: It is Polar: angle (radians) = 6, point = (15, 5). Real: 15.8114
+61: It is Polar: angle (radians) = 14, point = (16, 2). Real: 16.1245
+62: It is Complex: d = 16, i = 4. Real = 16.4924
+63: It is Complex: d = 12, i = 12. Real = 16.9706
+64: It is Complex: d = 13, i = 11. Real = 17.0294
+65: It is Polar: angle (radians) = 2, point = (11, 13). Real: 17.0294
+66: It is Complex: d = 17, i = 2. Real = 17.1172
+67: It is Polar: angle (radians) = 1, point = (12, 13). Real: 17.6918
+68: It is Complex: d = 16, i = 8. Real = 17.8885
+69: It is Polar: angle (radians) = 6, point = (1, 18). Real: 18.0278
+70: It is Complex: d = 11, i = 15. Real = 18.6011
+71: It is Polar: angle (radians) = 18, point = (17, 8). Real: 18.7883
+72: It is Complex: d = 10, i = 16. Real = 18.868
+73: It is Complex: d = 10, i = 16. Real = 18.868
+74: It is Polar: angle (radians) = 2, point = (19, 1). Real: 19.0263
+75: It is Polar: angle (radians) = 3, point = (13, 14). Real: 19.105
+76: It is Polar: angle (radians) = 18, point = (4, 19). Real: 19.4165
+77: It is Complex: d = 18, i = 9. Real = 20.1246
+78: It is Complex: d = 20, i = 4. Real = 20.3961
+79: It is Polar: angle (radians) = 14, point = (14, 15). Real: 20.5183
+80: It is Complex: d = 18, i = 10. Real = 20.5913
+81: It is Complex: d = 19, i = 8. Real = 20.6155
+82: It is Polar: angle (radians) = 8, point = (8, 19). Real: 20.6155
+83: It is Complex: d = 12, i = 17. Real = 20.8087
+84: It is Complex: d = 19, i = 9. Real = 21.0238
+85: It is Complex: d = 20, i = 7. Real = 21.1896
+86: It is Polar: angle (radians) = 13, point = (16, 14). Real: 21.2603
+87: It is Polar: angle (radians) = 3, point = (18, 12). Real: 21.6333
+88: It is Complex: d = 20, i = 9. Real = 21.9317
+89: It is Complex: d = 14, i = 17. Real = 22.0227
+90: It is Complex: d = 13, i = 18. Real = 22.2036
+91: It is Polar: angle (radians) = 15, point = (11, 20). Real: 22.8254
+92: It is Complex: d = 19, i = 13. Real = 23.0217
+93: It is Polar: angle (radians) = 3, point = (19, 14). Real: 23.6008
+94: It is Complex: d = 14, i = 19. Real = 23.6008
+95: It is Polar: angle (radians) = 7, point = (20, 14). Real: 24.4131
+96: It is Complex: d = 15, i = 20. Real = 25
+97: It is Polar: angle (radians) = 13, point = (19, 18). Real: 26.1725
+98: It is Polar: angle (radians) = 15, point = (17, 20). Real: 26.2488
+99: It is Polar: angle (radians) = 19, point = (19, 20). Real: 27.5862

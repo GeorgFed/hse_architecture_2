@@ -24,8 +24,8 @@ void Polar::InRnd() {
 // Вывод данных в файл.
 void Polar::Out(ofstream *ofst) {
     *ofst << "It is Polar: angle (radians) = "
-         << rad << ", point = (" << endpoint.x << ", " << endpoint.y << ")"
-         << "real: " << ToReal() << "\n";
+         << rad << ", point = (" << endpoint.x << ", " << endpoint.y << "). "
+         << "Real: " << ToReal() << "\n";
 }
 
 // Вычисление действительного числа.

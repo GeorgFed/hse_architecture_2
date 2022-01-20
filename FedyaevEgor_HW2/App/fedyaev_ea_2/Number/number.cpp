@@ -38,7 +38,7 @@ Number* Number::GlobalIn(ifstream *ifst) {
 // Случайный ввод обобщенного числа
 Number* Number::GlobalInRnd() {
     Number *sp;
-    auto k = rand() % 2 + 1;
+    auto k = rand() % 3 + 1;
     switch(k) {
         case 1:
             sp = new Fraction;

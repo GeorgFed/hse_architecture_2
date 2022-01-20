@@ -1,12 +1,12 @@
 Filled container:
 Container contains 10 elements.
-0: It is Complex: d = 19, i = 8. Real = 20.6155
-1: It is Fraction: numenator = 14, denominator = 15. Real = 0
-2: It is Complex: d = 7, i = 1. Real = 7.07107
-3: It is Fraction: numenator = 10, denominator = 20. Real = 0
-4: It is Fraction: numenator = 17, denominator = 7. Real = 2
-5: It is Fraction: numenator = 14, denominator = 19. Real = 0
-6: It is Fraction: numenator = 10, denominator = 5. Real = 2
-7: It is Complex: d = 16, i = 15. Real = 21.9317
-8: It is Fraction: numenator = 18, denominator = 19. Real = 0
-9: It is Complex: d = 17, i = 4. Real = 17.4642
+0: It is Fraction: numenator = 4, denominator = 4. Real = 1
+1: It is Fraction: numenator = 12, denominator = 15. Real = 0.8
+2: It is Polar: angle (radians) = 10, point = (15, 3). Real: 15.2971
+3: It is Complex: d = 12, i = 4. Real = 12.6491
+4: It is Complex: d = 12, i = 9. Real = 15
+5: It is Fraction: numenator = 20, denominator = 17. Real = 1.17647
+6: It is Polar: angle (radians) = 9, point = (18, 17). Real: 24.7588
+7: It is Complex: d = 17, i = 20. Real = 26.2488
+8: It is Polar: angle (radians) = 7, point = (10, 11). Real: 14.8661
+9: It is Fraction: numenator = 3, denominator = 4. Real = 0.75
